@@ -1,0 +1,90 @@
+
+/* load body with salmon color to verify CSS is hrefed in html file  */
+/* 
+
+body {
+    background-color: salmon;
+  } */
+
+
+ 
+
+  .redtext {
+    color: red;
+  }
+
+
+  .ortext {
+    color: rgb(255, 115, 0);
+  }
+  
+  
+
+  .bluetext {
+    color: blue;
+  }
+
+  .greentext {
+    color: green;
+  }
+
+  
+  .bigtext {
+    font-size: x-large;
+   }
+
+  .smalltext {
+    font-size:x-small;
+   }
+
+
+  .centeredtext {
+    text-align: center;
+    /* color: green; */
+   }
+
+
+  .boldtext {
+    font-weight: bold;
+   }
+
+
+  .newfont {
+    font-family:fantasy
+     /* color: green;
+     font-size:x-large; */
+   }
+
+  .styledFont {
+    font-family: cursive;
+    color: sienna;
+    text-indent: 12%;
+   }
+
+
+
+
+  .all {
+    color: blue;
+  }
+
+
+
+/* random code  */
+
+
+
+
+   /* h1 {
+    color: white;
+    text-decoration: underline;
+  }
+
+  h2, h3, p {
+    color: yellow;
+  }
+
+  p, li {
+    font-size: 24px;
+    font-family: cursive;
+  } */ 
